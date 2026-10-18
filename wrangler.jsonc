@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cf-ai-bridge",
+  "compatibility_date": "2025-01-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "index.js",
+  "vars": {
+    "WORKER_SECRET": "QNEjACkiEaLWvq6Bm6TPmL9uM8TOkaUfc1iZy4sq1f7a1222"
+  }
+}
